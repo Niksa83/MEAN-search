@@ -1,0 +1,17 @@
+{
+  "name": "mean2-search",
+  "version": "1.0.0",
+  "description": "express API and a2 client search",
+  "main": "server.js",
+  "author": "nick-simple-stack",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "~4.14.0",
+    "mongoose": "^4.7.5",
+    "morgan": "^1.7.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
